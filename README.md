@@ -1,5 +1,7 @@
 # Numpy_CodeWithSagar
+
 Numpy practice
+
 chapter 1 - Introduction to Numpy
 chapter 2 - Arrays Properties & Operations
 chapter 3 - Indexing and Slicing
